@@ -76,6 +76,12 @@ function Contributors() {
         info: "Hello there!!",
         imgUrl:
           "https://avatars.githubusercontent.com/u/90604050?v=4",
+      },
+      {
+        name: "Amit Kumar Sharma",
+        info: "Hello there!!",
+        imgUrl:
+          "https://avatars.githubusercontent.com/u/80998579?v=4",
       }
     ],
   };
